@@ -1,0 +1,16 @@
+# Images et Données lourdes 
+*.tif
+*.tiff
+*.lif
+*.czi
+*.nd2
+*.avi
+*.mp4
+
+# Fichiers temporaires Excel / OS
+~$*.xlsx
+.DS_Store
+Thumbs.db
+
+# Logs & temporaires Fiji
+*.log
